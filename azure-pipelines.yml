@@ -13,7 +13,7 @@ variables:
   webAppName: 'mangaloadtest'
   serviceConnection: 'load-test-rg'
   azureSubscriptionId: 'c8e50352-2529-4fe4-a701-d6317ea19fda'
-  loadTestResource: 'my-load test resource'
+  loadTestResource: 'my-load-test-resource'
   loadTestResourceGroup: 'loadtest-rg'
   location: 'West Europe'
 
